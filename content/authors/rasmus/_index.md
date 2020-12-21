@@ -17,11 +17,11 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests 2:
+interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-- Another test
+- Another test 2
 
 # Education to show in About widget
 education:
